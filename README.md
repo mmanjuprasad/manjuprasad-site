@@ -1,5 +1,3 @@
 # WebDev Portfolio
 
-Hey ! welcome to my portfolio
-
-I work at RSA
+Hey ! welcome to my portfolio.
